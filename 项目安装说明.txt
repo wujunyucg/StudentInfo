@@ -1,0 +1,26 @@
+
+没有sqlserver 2005数据库的用户可以 连接本人的数据库
+ip地址 115.29.142.133 账号 密码 都为root 账号之做查询用
+
+有数据库的朋友：
+（1）将Database文件夹中的扩展名为db_netExam_Data.MDF和db_netExam_Log.LDF的两个文件拷贝到SQL Server安装路径下的Data文件夹中。
+（2）打开SQL Server 2005中的“企业管理器”，然后展开本地服务器，在“数据库”数据项上单击鼠标右键，在弹出的快捷菜单中选择“所有任务”/“附加数据库”菜单项。
+（3）将弹出“附加数据库”对话框，在该对话框中单击【 】按钮，选择所要附加数据库的db_netExam_Data.MDF文件，单击【确定】按钮，即可完成数据库的附加操作。
+
+============================================
+关注科帮网公众订阅号获取更多java项目源码信息
+http://www.52itstyle.com/thread-264-1-1.html
+
+拒绝了对对象 'root' (数据库 'db_netExam'，架构 'dbo')的 SELECT 权限
+http://www.52itstyle.com/thread-268-1-1.html
+
+人才管理系统项目详细文档说明
+http://www.52itstyle.com/thread-224-1-1.html
+=========================================
+系统安装说明以及注意事项
+
+http://www.52itstyle.com/thread-151-1-1.html
+
+
+Java Web项目开发案例报价管理系统(亲测)
+http://www.52itstyle.com/thread-150-1-1.html
